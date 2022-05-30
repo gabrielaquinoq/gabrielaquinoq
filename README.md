@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning React ~ Node.JS ~ Ruby...
 - 👯 I’m looking to collaborate on platform and game development...
 - 🖥 Portuguese | English | Spanish.
+- 😎 How to reach me [Right Here](https://www.linkedin.com/in/gabriela-queiroz-aquino/) 
 
 
 
