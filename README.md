@@ -1,14 +1,9 @@
-### Hi there, I'm Gabriela.👋
+### Olá, sou a Gabriela.👋
 
 
-- 🦆 I am currently a programming teacher on BYJU'S Future School
-- 🔭 I’m currently working with Front-End using HTML ~ CSS ~ JavaScript ~ Python ~ Lua...
-- 🌱 I’m currently learning React ~ Node.JS ~ Ruby...
-- 👯 I’m looking to collaborate on platform and game development...
-- 🖥 Portuguese | English | Spanish.
-- 😎 You can find me and contact me [Right Here](https://www.linkedin.com/in/gabriela-queiroz-aquino/) 
-
-
-
-
-
+- 🦆 Trabalho atualmente como professora de programação na BYJU'S Future School.
+- 🔭 Trabalho como desenvolvedora Front-End usando HTML ~ CSS ~ JavaScript ~ Python ~ Lua...
+- 🌱 Sigo absorta nos estudos e estou aprendendo React ~ Node.JS ~ Ruby...
+- 👯 Colaboro no desenvolvimento de plataformas e jogos...
+- 🖥  Pode me contatar em Português | You can contact me in English | Puedes contactarme en Español.
+- 😎 Você pode me encontrar e entrar em contato [Aqui](https://www.linkedin.com/in/gabriela-queiroz-aquino/)
