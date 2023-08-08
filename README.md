@@ -1,9 +1,8 @@
 ### Olá, sou a Gabriela.👋
 
 
-- 🦆 Trabalho atualmente como professora de programação na BYJU'S Future School.
-- 🔭 Trabalho como desenvolvedora Front-End usando HTML ~ CSS ~ JavaScript ~ Python ~ Lua...
-- 🌱 Sigo absorta nos estudos e estou aprendendo React ~ Node.JS ~ Ruby...
-- 👯 Colaboro no desenvolvimento de plataformas e jogos...
+- 🦆 Criadora de conteúdo Gamer
+- 🔭 Absorta na construção de uma plataforma de rede social gamer.
+- 🌱 Estudando Ciência de Dados com Python.
 - 🖥  Pode me contatar em Português | You can contact me in English | Puedes contactarme en Español.
 - 😎 Você pode me encontrar e entrar em contato [Aqui](https://www.linkedin.com/in/gabriela-queiroz-aquino/)
